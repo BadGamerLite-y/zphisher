@@ -1,0 +1,4 @@
+Cloning into 'zphisher'...
+fatal: unable to access 'https://github.com/htr-tech/zphisher/': error setting certificate verify locations:  CAfile: /data/data/com.termux/files/usr/etc/tls/cert.pem CApath: /data/data/com.termux/files/usr/etc/tls/certs
+
+Please solve my problem anyone
